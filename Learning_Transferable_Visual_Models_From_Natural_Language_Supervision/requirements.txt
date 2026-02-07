@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+Pillow
+scikit-learn
+pandas
+seaborn
+regex
+datasets
+transformers
+ftfy
+requests
+huggingface_hub
+av
